@@ -21,7 +21,7 @@ Welcome to COMRADES, your ultimate online store for the latest and trendiest pro
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/comrades-ecommerce-website.git
+    git clone https://github.com/KunalNamdas/comrade-shoping-website.git
     cd comrades-ecommerce-website
     ```
 
